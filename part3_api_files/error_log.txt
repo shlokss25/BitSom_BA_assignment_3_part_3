@@ -1,0 +1,2 @@
+[2026-03-31 13:48:31.090523] ERROR in forced_connection: HTTPSConnectionPool(host='this-host-does-not-exist-xyz.com', port=443): Max retries exceeded with url: /api (Caused by NameResolutionError("HTTPSConnection(host='this-host-does-not-exist-xyz.com', port=443): Failed to resolve 'this-host-does-not-exist-xyz.com' ([Errno 11001] getaddrinfo failed)"))
+[2026-03-31 13:48:31.666407] ERROR in forced_404: Product 999 not found
